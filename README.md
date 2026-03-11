@@ -4,10 +4,10 @@ A bilingual cybersecurity awareness platform that helps users identify suspiciou
 
 ## Authors
 
-Parshva Panchal
-Paras Zanzane
-Prathamesh Gharat
-Parth Vaviya
+Parshva Panchal,
+Paras Zanzane,
+Prathamesh Gharat,
+Parth Vaviya,
 
 Department of Artificial Intelligence & Data Science
 Dwarkadas J. Sanghvi College of Engineering, Mumbai
